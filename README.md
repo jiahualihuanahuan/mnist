@@ -1,2 +1,2 @@
 # mnist
-traditional mnist handwritten digits classification problem
+Solving traditional mnist handwritten digits classification problem.
